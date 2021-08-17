@@ -1,0 +1,5 @@
+name: DevQuesting
+version: 1.0-SNAPSHOT
+api-version: 1.17
+main: dev.oscaz.devquesting.DevQuesting
+author: Oscazz

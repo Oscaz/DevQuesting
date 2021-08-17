@@ -1,0 +1,13 @@
+testquest:
+  type: BLOCK_BREAK
+  amount: 10
+  rewards:
+    - "say %player% my god they did the quest"
+    - "give %player% diamond 100"
+
+bigquest:
+  type: BLOCK_PLACE
+  amount: 5
+  rewards:
+    - "say %player% they placed blocks woah"
+    - "give %player% iron_ingot 10"
